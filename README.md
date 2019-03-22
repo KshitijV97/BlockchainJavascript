@@ -1,2 +1,2 @@
 # BlockchainJavascript
-Simplest implementation of a Blockchain using Javascript
+Simplest implementation of a Blockchain in Javascript
